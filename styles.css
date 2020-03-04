@@ -1,0 +1,37 @@
+#lorem{
+    padding: 1em;
+
+}
+
+
+p{
+    color: red;
+}
+
+.main-title{
+    color: blue;
+}
+
+
+.div1{
+    color: #0d0e14 !important;
+    text-align: justify;
+}
+
+.div2{
+    align-content: center;
+}
+
+.div3{
+    width: 90%;
+    text-align: center;
+}
+
+h1{
+
+
+}
+
+h2{
+    font-family: 'Bangers', cursive;
+}
